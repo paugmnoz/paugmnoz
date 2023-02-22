@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+[![paulamkt's GitHub | Languages Over Time](https://stats.quine.sh/paulamkt/languages-over-time?theme=light)](https://quine.sh)
 <!--
 **paugmnoz/paugmnoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
